@@ -1,4 +1,5 @@
 import heapq
+
 def solution(n, paths, gates, summits):
     graph = [[] for _ in range(n+1)]
     for path in paths:

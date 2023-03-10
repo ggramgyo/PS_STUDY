@@ -33,5 +33,4 @@ def solution(n, paths, gates, summits):
                             heapq.heappush(heap, v)
     return sorted(answer, key=lambda x:(x[1], x[0]))[0]
 # TestCase 틀린데 왜 제출하면 정답처리 ??
-# 틀린 이유를 알긴 아는데... 고치진 않은 코드
 # gate 출발 후 정상 도착하자마자 종료 동일 값에 더 작은 봉우리 도착 전에

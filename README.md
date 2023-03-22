@@ -14,7 +14,7 @@ One Day One Commit
 
 ### Format
 
-{Keyword}{난이도}{알고리즘 종류}
+{Keyword}:{난이도}{알고리즘 종류}
 
 ### Format
 

@@ -14,7 +14,12 @@ One Day One Commit
 
 ### Format
 
-{난이도}{알고리즘 종류}
+{Keyword}{난이도}{알고리즘 종류}
+
+### Format
+
+- `solve`: 참고 없이 풀이 성공
+- `refer`: 참고 후 풀이 성공
 
 ### Sites
 

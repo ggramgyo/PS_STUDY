@@ -1,4 +1,4 @@
-# algorithm
+# Algorithm
 
 코딩테스트 대비를 위한 알고리즘 능력 향상을 목표로 합니다.
 
@@ -6,14 +6,18 @@
 
 Python
 
-### Commit
+### Start
 
 2023.03.13 ~
-One Day One Commit
 
 ### Format
 
-{난이도}{알고리즘 종류}
+{Keyword}:{난이도}{알고리즘 종류}
+
+### Format
+
+- `solve`: 참고 없이 풀이 성공
+- `refer`: 참고 후 풀이 성공
 
 ### Sites
 

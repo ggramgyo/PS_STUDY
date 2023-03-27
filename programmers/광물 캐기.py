@@ -21,7 +21,7 @@ def solution(picks, minerals):
     for x in range(3):
         # 가중치가 높을수록 다이아로 캐야 유리
         # Greedy 사용 
-        if picks[x] and measure:
+        while picks[x] and measure:
             answer += measure.pop()[x+1]
             picks[x] -= 1
     return answer

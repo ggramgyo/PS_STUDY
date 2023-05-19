@@ -1,0 +1,1 @@
+import sys;ws = list(sys.stdin.readline().rstrip().split('-'));print(sum(map(int, ws[0].split('+'))) - sum([sum(map(int, w.split('+'))) for w in ws[1:]]))
